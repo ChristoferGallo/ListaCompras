@@ -6,7 +6,7 @@
 
 **2. Obtiene los elementos que tienen dicha clase**  `document.getElementsByClassName("clase") `
 
-**3. Obtiene las etiquetas**  `document.getElementsByTagNAme("etiqueta") `
+**3. Obtiene las etiquetas**  `document.getElementsByTagName("etiqueta") `
 
 
 
